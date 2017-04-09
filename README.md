@@ -1,1 +1,1 @@
-An simple SAX-stayle wikidata parser
+An simple SAX-style wikidata parser
